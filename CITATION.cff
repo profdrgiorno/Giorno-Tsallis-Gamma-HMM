@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the companion working paper and this repository."
+title: "Giorno–Tsallis Paper 1.2: Gamma-Jump HMM Simulation and Reproducibility Archive"
+authors:
+  - family-names: "Giorno"
+    given-names: "J."
+version: "2026.10.20"
+date-released: 2026-10-20
+keywords:
+  - "q-Gaussian"
+  - "hidden Markov model"
+  - "Gamma jumps"
+  - "Monte Carlo"
+references:
+  - type: manuscript
+    title: "Dynamic Entropic Tail-State Estimation under Asymmetric Gamma Jumps"
+    authors:
+      - family-names: "Giorno"
+        given-names: "J."
+    year: 2026
